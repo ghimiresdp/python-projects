@@ -1,6 +1,10 @@
 # python-projects
 Learn python by solving real world problems.
 
+> **Note**: If you are a contributor or want to contribute to this project, you
+>  can check the [contribution](CONTRIBUTION.md) section to get started.
+
+
 This Project is targeted to python students who want to learn python directly
 by involving in real-world problems. It contains all the project requirements,
 guideline to do the project and a sample solution of the specific problem.
