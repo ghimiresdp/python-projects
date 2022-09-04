@@ -24,27 +24,27 @@ notes to python enthusiasts who wants to learn python from the single workspace.
 
 **Table of Contents**
 
-1. [Basic Projects](basic/)
-    1. Weight Converter
-    2. Birthday Calculator
-    3. Basic Word Translator
-    4. Guess a Number
-    5. To-Do List
-    6. Random Password Generator
-    7. Count-Down Timer
+- [Basic Projects](basic/)
+    - Weight Converter
+    - Birthday Calculator
+    - Basic Word Translator
+    - Guess a Number
+    - To-Do List
+    - Random Password Generator
+    - Count-Down Timer
 
-2. [Intermediate Projects](intermediate/)
-    1. A Basic Malware
-    2. Rock Paper Scissor Game
-    3. [Hangman Game](intermediate/srs_hangman.md)
-    4. Love Letter Generator
-    5. School Management System
-    6. Tic-Tac-Toe Game
+- [Intermediate Projects](intermediate/)
+    - A Basic Malware
+    - [Rock Paper Scissor Game](intermediate/srs_rock_paper_scissor.md)
+    - [Hangman Game](intermediate/srs_hangman.md)
+    - Love Letter Generator
+    - School Management System
+    - Tic-Tac-Toe Game
 
-3. [Expert Projects](pro/)
-    1. Console Based Download Manager software
-    2. Custom file system
-    3. A basic HTTP Web Server
+- [Expert Projects](pro/)
+    - Console Based Download Manager software
+    - Custom file system
+    - A basic HTTP Web Server
 
 
 **Note:**
