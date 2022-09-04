@@ -36,7 +36,7 @@ notes to python enthusiasts who wants to learn python from the single workspace.
 2. [Intermediate Projects](intermediate/)
     1. A Basic Malware
     2. Rock Paper Scissor Game
-    3. Hangman Game
+    3. [Hangman Game](intermediate/srs_hangman.md)
     4. Love Letter Generator
     5. School Management System
     6. Tic-Tac-Toe Game

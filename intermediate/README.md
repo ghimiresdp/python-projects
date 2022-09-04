@@ -10,7 +10,7 @@ Python and resources required for these projects, you can check the
 
 1. A Basic Malware
 2. Rock Paper Scissor Game
-3. Hangman Game
+3. [Hangman Game](srs_hangman.md)
 4. Love Letter Generator
 5. School Management System
 6. Tic-Tac-Toe Game
