@@ -1,8 +1,8 @@
 # python-projects
 Learn python by solving real world problems.
 
-> **Note**: If you are a contributor or want to contribute to this project, you
->  can check the [contribution](CONTRIBUTION.md) section to get started.
+> **Note**: <i> If you are a contributor or want to contribute to this project,
+> you can check the [contribution](CONTRIBUTION.md) section to get started.</i>
 
 
 This Project is targeted to python students who want to learn python directly
@@ -47,12 +47,8 @@ notes to python enthusiasts who wants to learn python from the single workspace.
     3. A basic HTTP Web Server
 
 
-**Note**
+**Note:**
 <i>
-You can check [the root directory](/) to see more sections and related projects.
-If you have more project ideas and suggestions, you can create a PR adding your
-projects.
-
 This is a hobby project with intentions to help my students learn programming
 by solving real-world problems. If you think some project ideas or solutions are
 mis-leading, you can create issues. Suggestions are always welcome.
