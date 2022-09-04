@@ -34,7 +34,7 @@ notes to python enthusiasts who wants to learn python from the single workspace.
     7. Count-Down Timer
 
 2. [Intermediate Projects](expert/)
-    1. File Creator Virus
+    1. A Basic Malware
     2. Rock Paper Scissor Game
     3. Hangman Game
     4. Love Letter Generator
@@ -45,3 +45,15 @@ notes to python enthusiasts who wants to learn python from the single workspace.
     1. Console Based Download Manager software
     2. Custom file system
     3. A basic HTTP Web Server
+
+
+**Note**
+<i>
+You can check [the root directory](/) to see more sections and related projects.
+If you have more project ideas and suggestions, you can create a PR adding your
+projects.
+
+This is a hobby project with intentions to help my students learn programming
+by solving real-world problems. If you think some project ideas or solutions are
+mis-leading, you can create issues. Suggestions are always welcome.
+</i>
