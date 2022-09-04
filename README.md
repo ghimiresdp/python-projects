@@ -33,7 +33,7 @@ notes to python enthusiasts who wants to learn python from the single workspace.
     6. Random Password Generator
     7. Count-Down Timer
 
-2. [Intermediate Projects](expert/)
+2. [Intermediate Projects](intermediate/)
     1. A Basic Malware
     2. Rock Paper Scissor Game
     3. Hangman Game
