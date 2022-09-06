@@ -17,14 +17,16 @@
    contacts and display in 2 different views:
    - List View
    - Table View
-   - Detail View
-
+4. add methods `add_contact`, `view_contacts` and `display_table` to the class
+   `ContactBook`
+5. add relevant attributes and methods if required
 
 ## List View
 
 A List view should facilitate user to view contacts in a list with pagination
 that should support 3 users per view.
 
+**Example:**
 ```
 +------------------------------------------------+
 |  🙍 JOHN DOE                                   |
@@ -41,5 +43,20 @@ that should support 3 users per view.
 |  📧 johnjane@example.com                       |
 |  📞 +1234567890125                             |
 +------------------------------------------------+
+
     << Prev [P]      Exit[E]        Next [N]>>
+```
+
+## Table View
+A Table view should facilitate user to view contacts in a table that should show
+all contacts.
+
+**Example:**
+```
+SN  |  Name                 |  Email                   |  Phone
+----+-----------------------+--------------------------+------------------------
+1   |  John Doe             |  johndoe@example.com     |  +1234567890123
+2   |  Jane Doe             |  janedoe@example.com     |  +1234567890123
+3   |  John Jane            |  johnjane@example.com    |  +1234567890123
+
 ```
