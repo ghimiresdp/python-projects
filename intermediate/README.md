@@ -8,7 +8,7 @@ Python and resources required for these projects, you can check the
 **Projects**
 
 
-1. A Basic Malware
+1. [A multi-view Contact book](srs_contact_book.md)
 2. [Rock Paper Scissor Game](srs_rock_paper_scissor.md)
 3. [Hangman Game](srs_hangman.md)
 4. Love Letter Generator

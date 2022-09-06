@@ -34,7 +34,7 @@ notes to python enthusiasts who wants to learn python from the single workspace.
     - Count-Down Timer
 
 - [Intermediate Projects](intermediate/)
-    - A Basic Malware
+    - [A multi-view Contact book](intermediate/srs_contact_book.md)
     - [Rock Paper Scissor Game](intermediate/srs_rock_paper_scissor.md)
     - [Hangman Game](intermediate/srs_hangman.md)
     - Love Letter Generator
