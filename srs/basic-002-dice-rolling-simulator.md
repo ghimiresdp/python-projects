@@ -6,7 +6,21 @@
 
 # SRS: Dice Rolling Simulator
 
+> **Prerequisite**
+> - Basic understanding of functions and functional programming
+> - Understanding of `modules and packages`
+> - Basic understanding of a python [random](https://docs.python.org/3/library/random.html) module
+
 **Table of Contents**
+
+- [SRS: Dice Rolling Simulator](#srs-dice-rolling-simulator)
+    - [1. Introduction](#1-introduction)
+    - [2. Functional Requirements](#2-functional-requirements)
+        - [2.1. Dice Rolling](#21-dice-rolling)
+        - [2.2 Display the Statistics](#22-display-the-statistics)
+    - [3. Non-functional Requirements](#3-non-functional-requirements)
+        - [3.1. User Interface](#31-user-interface)
+    - [References:](#references)
 
 ## 1. Introduction
 
@@ -71,3 +85,9 @@ maximum occurrence:      1
 Enter to roll [0 to exit]:
 
 ```
+
+## References:
+
+- **Python Notes:
+  ** [chapter 8 Modules and Packages](https://github.com/ghimiresdp/python-notes/blob/main/c08_modules_packages/chapter%208.4%20random.md)
+- **Official Documentation**: [Random Module](https://docs.python.org/3/library/random.html)
