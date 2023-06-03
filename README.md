@@ -28,9 +28,14 @@ The [python-notes](https://github.com/ghimiresdp/python-notes) repository
 provides notes to python enthusiasts who wants to learn python from the single
 workspace.
 
-**Table of Contents**
+> **Note**: [Click](#basic-projects) each project title to see the detailed
+> SRS document and guidelines to create the application. The SRS document may
+> give references and resources to accomplish the project.
+>
+> **Please Read the SRS carefully to generate an optimum solution.**
 
 ## Basic Projects
+
 1. [Weight Converter](srs/basic-001-weight-converter.md)
 2. [Dice Rolling Simulator](srs/basic-002-dice-rolling-simulator.md)
 3. [Password Generator](srs/basic-003-password-generator.md)
@@ -38,14 +43,16 @@ workspace.
 5. [School Manager](srs/basic-005-school-manager.md)
 
 ## Intermediate Projects
-    - [A multi-view Contact book](srs/inter-001-contact-book.md)
-    - [Multi Language Dictionary](srs/inter-002-multi-language-dictionary.md)
-    - [Rock Paper Scissor Game](srs/inter-003-rock-paper-scissor.md)
-    - [Hangman Game](srs/inter-005-hangman.md)
-    - School Management System
-    - Tic-Tac-Toe Game
+
+1. [A multi-view Contact book](srs/inter-001-contact-book.md)
+2. [Rock Paper Scissor Game](srs/inter-002-rock-paper-scissor.md)
+3. [Hangman Game](srs/inter-003-hangman.md)
+4. [Weather Application](srs/inter-004-weather-app.md)
+5. [Tic Tac Toe Game](srs/inter-005-tic-tac-toe.md)
 
 ## Expert Projects
-    - Console Based Download Manager software
-    - Custom file system
-    - A basic HTTP Web Server
+
+1. Console Based Download Manager software
+2. A Custom file system
+3. A basic HTTP Web Server
+4. An XML parser application
