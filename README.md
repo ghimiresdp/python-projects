@@ -1,4 +1,4 @@
-# python-projects
+# Python Projects
 
 Learn python by solving real world problems.
 
@@ -30,24 +30,22 @@ workspace.
 
 **Table of Contents**
 
-- [Basic Projects](basic)
-    - [Weight Converter](basic/srs_weight_converter.md)
-    - Birthday Calculator
-    - Basic Word Translator
-    - Guess a Number
-    - To-Do List
-    - Random Password Generator
-    - Count-Down Timer
+## Basic Projects
+1. [Weight Converter](srs/basic-001-weight-converter.md)
+2. [Dice Rolling Simulator](srs/basic-002-dice-rolling-simulator.md)
+3. [Password Generator](srs/basic-003-password-generator.md)
+4. [To Do List](srs/basic-004-to-do-list.md)
+5. [School Manager](srs/basic-005-school-manager.md)
 
-- [Intermediate Projects](srs/intermediate)
-    - [A multi-view Contact book](srs/intermediate/srs_contact_book.md)
-    - [Rock Paper Scissor Game](srs/intermediate/srs_rock_paper_scissor.md)
-    - [Hangman Game](srs/intermediate/srs_hangman.md)
-    - Love Letter Generator
+## Intermediate Projects
+    - [A multi-view Contact book](srs/inter-001-contact-book.md)
+    - [Multi Language Dictionary](srs/inter-002-multi-language-dictionary.md)
+    - [Rock Paper Scissor Game](srs/inter-003-rock-paper-scissor.md)
+    - [Hangman Game](srs/inter-005-hangman.md)
     - School Management System
     - Tic-Tac-Toe Game
 
-- [Expert Projects](srs/pro)
+## Expert Projects
     - Console Based Download Manager software
     - Custom file system
     - A basic HTTP Web Server

@@ -1,7 +1,13 @@
-# SRS for Weight Converter Application
+- **created by**: Sudip Ghimire
+- **URL**: https://www.sudipghimire.com.np
+- **GitHub**: https://github.com/ghimiresdp
+
+<h3>[Go to Index](https://github.com/ghimiresdp/python-projects/)</h3><hr>
+
+# SRS: Weight Converter Application
 
 **Table of Contents**
-- [SRS for Weight Converter Application](#srs-for-weight-converter-application)
+- [SRS: Weight Converter Application](#srs-weight-converter-application)
   - [1. Introduction](#1-introduction)
   - [2. Functional Requirements](#2-functional-requirements)
     - [2.1. Conversion Types](#21-conversion-types)
@@ -53,13 +59,13 @@ Unit Conversion Application
 5. Exit
 ==================================================
 
-Please Select the option: 
+Please Select the option:
 ```
 
 ### 2.3. Conversion Calculation
 
 The application should accurately convert the weight value from the input unit
-to the desired output unit using the appropriate conversion formula for each 
+to the desired output unit using the appropriate conversion formula for each
 conversion type.
 
 ### 2.4. Output Display
@@ -113,7 +119,7 @@ convert another number or not.
 Do you want to convert again? [y/n]: y
 --------------------------------------------------
 
-Please Enter Weight in Kilograms: 
+Please Enter Weight in Kilograms:
 
 ```
 

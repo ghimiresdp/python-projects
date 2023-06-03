@@ -8,9 +8,9 @@ Python and resources required for these projects, you can check the
 **Projects**
 
 
-1. [A multi-view Contact book](srs_contact_book.md)
-2. [Rock Paper Scissor Game](srs_rock_paper_scissor.md)
-3. [Hangman Game](srs_hangman.md)
+1. [A multi-view Contact book](../inter-001-contact-book.md)
+2. [Rock Paper Scissor Game](../inter-003-rock-paper-scissor.md)
+3. [Hangman Game](../inter-005-hangman.md)
 4. Love Letter Generator
 5. School Management System
 6. Tic-Tac-Toe Game

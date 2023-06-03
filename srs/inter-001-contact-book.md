@@ -1,4 +1,13 @@
-# Project: A Contact Book
+- **created by**: Sudip Ghimire
+- **URL**: https://www.sudipghimire.com.np
+- **GitHub**: https://github.com/ghimiresdp
+
+<h3>[Go to Index](https://github.com/ghimiresdp/python-projects/)</h3><hr>
+
+# SRS: A Console-based Contact Book
+
+**Table of Contents**
+
 
 > This project aims programmer to create a basic contact book that is capable
 > of adding, editing, viewing and listing contacts in the terminal.
