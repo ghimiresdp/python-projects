@@ -32,9 +32,9 @@ of any region, race, or gender.
 
 Examples of some placeholders we may use in our project are as follows:
 
-1. **Person**: `John Doe` `Darth Vader`, `Princes Leia`, `Iron Man`, `Yoda`, etc.
+1. **Person**: `John Doe` `Darth Vader`, `Princes Leia`, `Iron Man`, etc.
 2. **Place**: `High Street`, `Wakanda`, `Vulkan`, `Tatooine`, etc.
-3. **Organization**: `Ace`, `Galactic Republic`, `Jedi`, `Enterprise`, ``, etc.
+3. **Organization**: `Ace`, `Galactic Republic`, `Jedi`, `Enterprise`, etc.
 4. **Domain Names** `example.com`, `starwars.com`, `johndoe.com`, etc.
 
 
